@@ -8,9 +8,9 @@ function Header() {
         </div>
             <div>
                 <nav>
-                    <a href="">projects</a>
-                    <a href="">About me</a>
-                    <a href="">FAQ</a>
+                    <a href="#Projects">projects</a>
+                    <a href="#Bio">About</a>
+                    <a href="#Skill">Skills</a>
                     <a href="">contact</a>
                 </nav>
             </div>
