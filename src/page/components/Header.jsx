@@ -11,7 +11,7 @@ function Header() {
                     <a href="#Projects">projects</a>
                     <a href="#Bio">About</a>
                     <a href="#Skill">Skills</a>
-                    <a href="">contact</a>
+                    <a href="#Contact">contact</a>
                 </nav>
             </div>
     </div>

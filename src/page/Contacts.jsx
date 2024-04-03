@@ -3,7 +3,7 @@ import './global.css'
 import contact from './image/contact.png'
 function Contacts() {
   return (
-    <div className='Bodys'>
+    <div id='Contact' className='Bodys'>
           <div className="container">
       <div className="content">
         <div class="image-box">
